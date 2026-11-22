@@ -1,0 +1,35 @@
+# RLDEV, Rayan Laffi
+
+> Je suis Rayan Laffi, développeur web indépendant basé à Lyon (entreprise individuelle RLDEV, siège à Vénissieux). Je travaille pour des entreprises partout en France. Je crée des sites internet, des applications web et mobiles et des logiciels de gestion. Je les mets en ligne, puis je forme les personnes qui vont s'en servir.
+
+## Pages
+
+- [Accueil](https://rayanlaffi.fr/): ce que je fais, ma façon de travailler, mes réalisations et le contact
+- [À propos](https://rayanlaffi.fr/a-propos.html): mon parcours, ce que je fais, ma façon de travailler et mes outils
+- [Mentions légales](https://rayanlaffi.fr/mentions-legales.html): éditeur, hébergement, données personnelles et cookies
+
+## Ce que je fais
+
+- Sites internet : le site qui présente votre activité et permet à vos clients de vous contacter.
+- Applications mobiles : votre application pour iPhone et pour Android.
+- Logiciels de gestion : un outil construit autour de votre façon de travailler, pour votre entreprise ou pour toutes celles de votre métier.
+- Mise en ligne et formation : après la livraison, je vous forme, vous et votre équipe.
+
+## Comment je travaille
+
+- Le projet commence par un rendez-vous où vous m'expliquez ce qu'il vous faut, avec vos mots.
+- Je construis et je sécurise le site, je le mets en ligne, puis je vous apprends à vous en servir.
+- Vous parlez toujours à la personne qui construit votre site.
+- Si vous avez déjà des développeurs, je peux les rejoindre sur une partie du projet.
+- Après la livraison, je fais les mises à jour et j'ajoute ce qui vous manque quand le besoin arrive.
+
+## Réalisations
+
+- O Daba : site vitrine d'un restaurant d'afro street-food à Vénissieux
+- [formaness.fr](https://www.formaness.fr/) : site de présentation d'un logiciel pour organismes de formation
+
+## Contact
+
+- E-mail : contact@rayanlaffi.fr
+- GitHub : https://github.com/Rayanlaffi1
+- Zone d'intervention : toute la France, depuis Lyon
