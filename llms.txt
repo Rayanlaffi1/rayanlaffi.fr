@@ -6,6 +6,8 @@
 
 - [Accueil](https://rayanlaffi.fr/): ce que je fais, ma façon de travailler, mes réalisations et le contact
 - [À propos](https://rayanlaffi.fr/a-propos.html): mon parcours, ce que je fais, ma façon de travailler et mes outils
+- [Ofrica](https://rayanlaffi.fr/realisation-ofrica.html): le site complet d'un restaurant d'afro street-food, terminé et à vendre
+- [Formaness](https://rayanlaffi.fr/realisation-formaness.html): le site vitrine et le logiciel SaaS pour organismes de formation que je développe
 - [Mentions légales](https://rayanlaffi.fr/mentions-legales.html): éditeur, hébergement, données personnelles et cookies
 
 ## Ce que je fais
@@ -25,8 +27,8 @@
 
 ## Réalisations
 
-- O Daba : site vitrine d'un restaurant d'afro street-food à Vénissieux
-- [formaness.fr](https://www.formaness.fr/) : site de présentation d'un logiciel pour organismes de formation
+- [Ofrica](https://rayanlaffi.fr/realisation-ofrica.html) : le site complet d'un restaurant d'afro street-food (accueil, carte avec photos et prix, à propos), terminé et à vendre
+- [Formaness](https://rayanlaffi.fr/realisation-formaness.html) : le site vitrine [formaness.fr](https://www.formaness.fr/) et le logiciel en ligne (SaaS) pour organismes de formation, que je conçois et développe depuis 2024 en Next.js et Symfony
 
 ## Contact
 
